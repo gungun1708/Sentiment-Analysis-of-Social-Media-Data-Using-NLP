@@ -1,2 +1,20 @@
-# Sentiment-Analysis-of-Social-Media-Data-Using-NLP
-An AI-powered Sentiment Analysis web application using Python, NLP, Machine Learning, React.js, and FastAPI to classify social media posts as Positive, Negative, or Neutral, with interactive dashboards and data visualization.
+# Sentiment Analysis of Social Media Data Using NLP
+
+A full-stack web application for analyzing social
+media sentiment using Natural Language Processing
+and Machine Learning.
+
+## Technologies
+- Python
+- React.js
+- FastAPI
+- Scikit-learn
+- Pandas
+- SQLite
+
+## Features
+- Positive, Negative, and Neutral sentiment analysis
+- Interactive analytics dashboard
+- CSV bulk sentiment analysis
+- Data visualization
+- Machine learning model evaluation

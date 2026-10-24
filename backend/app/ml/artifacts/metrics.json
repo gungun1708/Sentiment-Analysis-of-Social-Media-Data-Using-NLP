@@ -1,0 +1,41 @@
+{
+  "algorithm": "TF-IDF (unigrams + bigrams) + Logistic Regression",
+  "dataset_size": 90,
+  "train_size": 67,
+  "test_size": 23,
+  "trained_at": "2026-10-24T07:15:06.656653+00:00",
+  "accuracy": 0.6086956521739131,
+  "precision": 0.6038647342995168,
+  "recall": 0.6086956521739131,
+  "f1_score": 0.6051544363564824,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      2,
+      0,
+      5
+    ],
+    [
+      0,
+      8,
+      0
+    ],
+    [
+      4,
+      0,
+      4
+    ]
+  ],
+  "class_distribution": {
+    "positive": 30,
+    "negative": 30,
+    "neutral": 30
+  },
+  "dataset_source": "sample_social_media.csv",
+  "demonstration_data": true,
+  "methodology": "Reproducible stratified 75/25 train/test split (random_state=42); metrics are measured only on the held-out test split."
+}

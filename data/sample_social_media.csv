@@ -1,0 +1,91 @@
+text,sentiment,platform
+"I absolutely love this update, it works beautifully",positive,Twitter
+"Best customer service I have ever experienced",positive,Instagram
+"So happy with my new headphones, amazing sound",positive,Reddit
+"This app is fantastic and easy to use",positive,Twitter
+"What a wonderful surprise, very impressed",positive,Instagram
+"The team did a great job fixing my issue",positive,Reddit
+"My order arrived early and everything is perfect",positive,Twitter
+"Brilliant design and excellent performance",positive,Instagram
+"I enjoy using this every single day",positive,Reddit
+"Really pleased with the quality and value",positive,Twitter
+"The new feature is helpful and delightful",positive,Instagram
+"Fast delivery, friendly staff, highly recommend",positive,Reddit
+"This made my day, thank you so much",positive,Twitter
+"Incredible experience from start to finish",positive,Instagram
+"It feels smooth, reliable, and thoughtfully made",positive,Reddit
+"Absolutely worth it, I could not be happier",positive,Twitter
+"Great results and a simple setup",positive,Instagram
+"The support agent was kind and solved everything",positive,Reddit
+"This is my favorite purchase this year",positive,Twitter
+"Works perfectly and looks wonderful",positive,Instagram
+"I am thrilled with how well this turned out",positive,Reddit
+"Super convenient and surprisingly powerful",positive,Twitter
+"A lovely product with excellent support",positive,Instagram
+"Everything is better than I expected",positive,Reddit
+"Five stars for quality and quick service",positive,Twitter
+"I really like the clean interface",positive,Instagram
+"Delighted with the upgrade, much faster now",positive,Reddit
+"Such a useful tool, I recommend it",positive,Twitter
+"The experience was seamless and enjoyable",positive,Instagram
+"Excellent quality, works exactly as promised",positive,Reddit
+"I hate this update, nothing works anymore",negative,Twitter
+"Terrible customer service, nobody replied",negative,Instagram
+"My headphones broke after one day",negative,Reddit
+"This app is awful and confusing",negative,Twitter
+"Very disappointed with the quality",negative,Instagram
+"The team ignored my issue for weeks",negative,Reddit
+"My order arrived late and damaged",negative,Twitter
+"Poor design and extremely slow performance",negative,Instagram
+"I regret using this every single day",negative,Reddit
+"Really unhappy with the price and value",negative,Twitter
+"The new feature is useless and frustrating",negative,Instagram
+"Slow delivery, rude staff, do not recommend",negative,Reddit
+"This ruined my day, what a mess",negative,Twitter
+"Horrible experience from start to finish",negative,Instagram
+"It feels buggy, unreliable, and badly made",negative,Reddit
+"Not worth it, I could not be more disappointed",negative,Twitter
+"Bad results and a difficult setup",negative,Instagram
+"The support agent was rude and solved nothing",negative,Reddit
+"This is my worst purchase this year",negative,Twitter
+"Does not work and looks terrible",negative,Instagram
+"I am frustrated with how badly this turned out",negative,Reddit
+"Inconvenient and surprisingly weak",negative,Twitter
+"A disappointing product with terrible support",negative,Instagram
+"Everything is worse than I expected",negative,Reddit
+"One star for quality and slow service",negative,Twitter
+"I really dislike the cluttered interface",negative,Instagram
+"Regret the upgrade, much slower now",negative,Reddit
+"Such a pointless tool, avoid it",negative,Twitter
+"The experience was stressful and unpleasant",negative,Instagram
+"Low quality, does not work as promised",negative,Reddit
+"I posted an update about the new schedule",neutral,Twitter
+"The service is available in three locations",neutral,Instagram
+"A new version was released this morning",neutral,Reddit
+"The package includes a cable and a guide",neutral,Twitter
+"The meeting starts at four o'clock today",neutral,Instagram
+"This post contains two photos from the event",neutral,Reddit
+"The company shared its quarterly report",neutral,Twitter
+"You can find the settings in the main menu",neutral,Instagram
+"The store opens at nine and closes at six",neutral,Reddit
+"I received a notification about the delivery",neutral,Twitter
+"The update is scheduled for next Tuesday",neutral,Instagram
+"The article describes the product specifications",neutral,Reddit
+"There are several ways to contact the office",neutral,Twitter
+"The event will take place downtown this weekend",neutral,Instagram
+"The dashboard shows the latest account activity",neutral,Reddit
+"My subscription renews at the end of the month",neutral,Twitter
+"The instructions are included in the box",neutral,Instagram
+"A representative will call tomorrow afternoon",neutral,Reddit
+"The website lists the current opening hours",neutral,Twitter
+"I changed my profile photo this morning",neutral,Instagram
+"The next train leaves from platform number two",neutral,Reddit
+"The new menu has twelve items",neutral,Twitter
+"The file was uploaded to the shared folder",neutral,Instagram
+"Our team posted the weekly summary",neutral,Reddit
+"The camera records video in several formats",neutral,Twitter
+"This account joined the platform last year",neutral,Instagram
+"The instructions mention a required software update",neutral,Reddit
+"A copy of the receipt was sent by email",neutral,Twitter
+"The survey closes on the final day of June",neutral,Instagram
+"The package is currently at the local sorting center",neutral,Reddit
